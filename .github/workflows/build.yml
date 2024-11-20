@@ -44,4 +44,4 @@ jobs:
           name: ${{ env.PLUGIN_NAME }}
           path: |
             main.js
-            manifest.json 
+            manifest.json
