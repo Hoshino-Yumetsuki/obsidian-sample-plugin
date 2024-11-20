@@ -28,16 +28,16 @@
 		"builtin-modules": "3.3.0",
 		"esbuild": "0.17.3",
 		"eslint": "^9.15.0",
-		"obsidian": "latest",
-		"tslib": "2.4.0",
-		"typescript": "4.7.4",
 		"eslint-config-prettier": "^9.1.0",
-    	"eslint-config-standard": "^17.1.0",
-    	"eslint-plugin-import": "^2.30.0",
-    	"eslint-plugin-n": "^16.6.2",
-    	"eslint-plugin-prettier": "^5.2.1",
-    	"eslint-plugin-promise": "^7.1.0",
-    	"prettier": "^3.3.3"
+		"eslint-config-standard": "^17.1.0",
+		"eslint-plugin-import": "^2.30.0",
+		"eslint-plugin-n": "^16.6.2",
+		"eslint-plugin-prettier": "^5.2.1",
+		"eslint-plugin-promise": "^7.1.0",
+		"obsidian": "latest",
+		"prettier": "^3.3.3",
+		"tslib": "2.4.0",
+		"typescript": "4.7.4"
 	},
 	"packageManager": "yarn@4.5.1+sha512.341db9396b6e289fecc30cd7ab3af65060e05ebff4b3b47547b278b9e67b08f485ecd8c79006b405446262142c7a38154445ef7f17c1d5d1de7d90bf9ce7054d"
 }
