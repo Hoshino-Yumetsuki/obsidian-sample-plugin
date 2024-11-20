@@ -31,7 +31,6 @@ export default class MyPlugin extends Plugin {
 			'Sample Plugin',
 			(evt: MouseEvent) => {
 				// Called when the user clicks the icon.
-				// eslint-disable-next-line no-new
 				new Notice('This is a notice!')
 			}
 		)
@@ -111,7 +110,6 @@ export default class MyPlugin extends Plugin {
 }
 
 class SampleModal extends Modal {
-	// eslint-disable-next-line no-useless-constructor
 	constructor(app: App) {
 		super(app)
 	}
