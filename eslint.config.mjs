@@ -48,6 +48,7 @@ export default [
             "no-prototype-builtins": "off",
             "@typescript-eslint/no-empty-function": "off",
             "no-new": "off",
+            // Should be removed in production environment
             "no-useless-constructor": "off",
         },
     },
